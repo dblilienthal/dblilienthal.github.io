@@ -3,7 +3,7 @@
 
 Lilienthal, D., Mello P., Eirinaki, M.Tiomkin, S,. 2024. “Multi-Resolution Diffusion for Privacy-Sensitive Recommender Systems”. ArXiv https://arxiv.org/abs/2311.03488  [Currently in review for IEEE Access]
 
-Chowdhary, M., Lilienthal, D., Saha, S,. and Palle, K., “AutoML for On-sensor Tiny Machine Learning”. 2024. IEEE International Symposium on Inertial Sensors and Systems.
+Chowdhary, M., Lilienthal, D., Saha, S,. and Palle, K., “AutoML for On-sensor Tiny Machine Learning”. 2024. IEEE International Symposium on Inertial Sensors and Systems. https://ieeexplore.ieee.org/document/10298625
 
 Zeng, R., Lilienthal, D., Iordan, M. C., and Piazza, E. A. “Using a Language Transformer Model to Capture Creativity in Improvised Narratives.” Poster presented at: The Cognitive Science Society; July 2022; 
 
