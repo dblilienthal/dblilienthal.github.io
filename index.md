@@ -1,31 +1,40 @@
 # About me
 
-Hi! My name is Derek Lilienthal, and I am just about done with my Master's in Artificial Intelligence at San Jose State University. Before that, I completed my Bachelor's in Computer Science with a concentration in Data Science and a minor in Statistics from CSU Monterey Bay. 
+Hi! My name is Derek Lilienthal, and I am nearing completion of my Master's in Artificial Intelligence at San Jose State University, where I am finalizing my thesis on using conditional generative models for data augmentation in recommendation systems to increase group fairness. Prior to this, I completed my Bachelor's in Computer Science, concentrating in Data Science and minoring in Statistics, at CSU Monterey Bay.
 
 # Skills and Experience
 
-**Statistical Machine Learning**
-
-I have experience in using machine learning for classification, regression, time-series, and unsupervised tasks.   
-
 **Deep Learning**
 
-I have experience in using deep learning framework, such as PyTorch, Keras, and TensorFlow from prior research, publications, and course work. 
+I have experience in using deep learning frameworks, such as PyTorch, Keras, and TensorFlow, from prior research, publications, and coursework. 
 
-**Natural Language Processing**
+## Natural Language Processing
 
-I have experience leveraging NLP tools and libraries, such as PyTorch, 
+I have experience leveraging NLP tools and libraries, such as NLTK, Gensim, SpaCy, HuggingFaces Transformers, and Sentence Transformers.  
+
+*Selected relevant projects*
+- [Covid-19 Tweet Classification](https://github.com/dblilienthal/Multiclass-Text-Classification-with-DistilBERT-on-COVID-19-Tweets/blob/main/Multiclass%20Text%20Classification%20with%20DistilBERT%20on%20COVID-19%20Tweets.ipynb)
+- [Quora Question Similarity](https://github.com/dblilienthal/Identifying-Quora-Question-Pairs/tree/main)
+- [Anime Multilabel Classification Tutorial](https://github.com/dblilienthal/Multi-Label-Classification-Tutorial-for-NLP/blob/main/Multi-Label%20NLP.ipynb)
 
 **Generative Models**
 
 
 
+## Statistical Machine Learning
+
+I have experience in using machine learning for classification, regression, time series, and unsupervised tasks.   
+
+*Selected relevant projects*
+- [Energy Forcasting](https://github.com/dblilienthal/Household-Energy-Forecasting/blob/main/Household%20Energy%20Modeling.ipynb)
+- [Car Insurance Customer Interest Prediction](https://github.com/dblilienthal/Machine-Learning-Projects/blob/main/car_insurance_predictions.ipynb)
+
 # Current Position
 
-**Research Computing Intern** - Pacific Northwest National Labratory
-- January 2024 to present
+I am working as a research computing intern for the Pacific Northwest National Laboratory (PNNL), where I am working on containerizing machine learning workflows through PNNL's High-Performance Computing clusters. 
 
-[Prior Work History](./work-history.html).
+[See More Prior Work History](./work-history.html).
+
 
 [Publications](./publications.html).
 
