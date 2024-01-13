@@ -4,9 +4,13 @@ Hi! My name is Derek Lilienthal, and I am nearing completion of my Master's in A
 
 # Skills and Experience
 
-**Deep Learning**
+## Deep Learning
 
 I have experience in using deep learning frameworks, such as PyTorch, Keras, and TensorFlow, from prior research, publications, and coursework. 
+
+*Selected relevant projects*
+- [Python Comment Generator](https://github.com/dblilienthal/Python-Function-Commenter)
+- [Visualizing Pneumonia on X-rays](https://github.com/dblilienthal/Visualizing-Pneumonia-using-Deep-Learning)
 
 ## Natural Language Processing
 
@@ -16,10 +20,6 @@ I have experience leveraging NLP tools and libraries, such as NLTK, Gensim, SpaC
 - [Covid-19 Tweet Classification](https://github.com/dblilienthal/Multiclass-Text-Classification-with-DistilBERT-on-COVID-19-Tweets/blob/main/Multiclass%20Text%20Classification%20with%20DistilBERT%20on%20COVID-19%20Tweets.ipynb)
 - [Quora Question Similarity](https://github.com/dblilienthal/Identifying-Quora-Question-Pairs/tree/main)
 - [Anime Multilabel Classification Tutorial](https://github.com/dblilienthal/Multi-Label-Classification-Tutorial-for-NLP/blob/main/Multi-Label%20NLP.ipynb)
-
-**Generative Models**
-
-
 
 ## Statistical Machine Learning
 
@@ -31,7 +31,7 @@ I have experience in using machine learning for classification, regression, time
 
 # Current Position
 
-I am working as a research computing intern for the Pacific Northwest National Laboratory (PNNL), where I am working on containerizing machine learning workflows through PNNL's High-Performance Computing clusters. 
+I am working as a **Research Computing Intern** for the **Pacific Northwest National Laboratory** (PNNL), where I am working on containerizing machine learning workflows through PNNL's High-Performance Computing (HPC) clusters. My work will enable the thousands of researchers who utilize the HPC to have reliable and reproducible results without worrying about the nuances of creating a code optimized for distributed parallelization on RedHat Linux. 
 
 [See More Prior Work History](./work-history.html).
 
@@ -40,4 +40,4 @@ I am working as a research computing intern for the Pacific Northwest National L
 
 # Research Interests
 
-Fair Machine Learning, Recommendation Systems, Generative AI (primarily diffusion models and variational autoencoders), Explainable Deep Learning Methods
+Fair Machine Learning, Recommendation Systems, Generative AI, Distributed Computing, Machine Learning Workflows, Explainable Deep Learning Methods
