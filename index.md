@@ -6,7 +6,7 @@ Hi! My name is Derek Lilienthal, and I am nearing completion of my Master's in A
 
 ## Deep Learning
 
-I have experience in using deep learning frameworks, such as PyTorch, Keras, and TensorFlow, from prior research, publications, and coursework. 
+I have experience using deep learning frameworks, such as PyTorch, Keras, and TensorFlow, from prior research, publications, and coursework. 
 
 *Selected relevant projects*
 - [Python Comment Generator](https://github.com/dblilienthal/Python-Function-Commenter)
@@ -37,6 +37,7 @@ I am working as a **Research Computing Intern** for the **Pacific Northwest Nati
 
 Software Engineer Intern - STMicroelectronics (ST) [link](https://www.st.com/)
 - October 2022 to October 2023
+  
 Applied Machine Learning Intern - Seeq Corporation [link](https://www.seeq.com/)
 - May 2022 to August 2022
 
@@ -45,9 +46,11 @@ Applied Machine Learning Intern - Seeq Corporation [link](https://www.seeq.com/)
 Graduate Student Researcher - San Jose State University
 - January 2023 to present
 - Advisor: Dr. Magdalini Eirinaki
+  
 Research Collaborator - The University of Rochester
 - May 2021 to present
 - [SoNIC Lab](https://www.piazzalab.com/)
+  
 Research Intern - Naval Postgraduate School
 - August 2020 to May 2021 
 
