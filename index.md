@@ -59,3 +59,6 @@ Research Intern - Naval Postgraduate School
 # Research Interests
 
 Fair Machine Learning, Recommendation Systems, Generative AI, Distributed Computing, Machine Learning Workflows, Explainable Deep Learning Methods
+
+
+*Last Update 01/13/2024*
