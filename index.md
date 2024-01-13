@@ -31,10 +31,25 @@ I have experience in using machine learning for classification, regression, time
 
 # Current Position
 
-I am working as a **Research Computing Intern** for the **Pacific Northwest National Laboratory** (PNNL), where I am working on containerizing machine learning workflows through PNNL's High-Performance Computing (HPC) clusters. My work will enable the thousands of researchers who utilize the HPC to have reliable and reproducible results without worrying about the nuances of creating a code optimized for distributed parallelization on RedHat Linux. 
+I am working as a **Research Computing Intern** for the **Pacific Northwest National Laboratory** ([PNNL](https://www.pnnl.gov/)), where I am working on containerizing machine learning workflows through PNNL's High-Performance Computing (HPC) clusters. My work will enable the thousands of researchers who utilize the HPC to have reliable and reproducible results without worrying about the nuances of creating a code optimized for distributed parallelization on RedHat Linux. 
 
-[See More Prior Work History](./work-history.html).
+### Prior Industry Experience
 
+Software Engineer Intern - STMicroelectronics (ST) [link](https://www.st.com/)
+- October 2022 to October 2023
+Applied Machine Learning Intern - Seeq Corporation [link](https://www.seeq.com/)
+- May 2022 to August 2022
+
+### Prior Research Experience
+
+Graduate Student Researcher - San Jose State University
+- January 2023 to present
+- Advisor: Dr. Magdalini Eirinaki
+Research Collaborator - The University of Rochester
+- May 2021 to present
+- [SoNIC Lab](https://www.piazzalab.com/)
+Research Intern - Naval Postgraduate School
+- August 2020 to May 2021 
 
 [Publications](./publications.html).
 
